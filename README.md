@@ -201,4 +201,4 @@ This repository serves as the official landing page for Narcos: Rise of the Cart
 **Get the most recent version of Narcos: Rise of the Cartels today!**
 
 ---
-**Last updated:** 2026-11-07 19:09:31 UTC
+**Last updated:** 2026-11-07 23:12:19 UTC
